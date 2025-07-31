@@ -1,3 +1,15 @@
 yt-dlp
 faster-whisper
-gTTS
+pyspellchecker
+llama-index
+llama-index-readers-whisper
+langchain_community
+langchain-weaviate
+langchain_ollama
+faiss-cpu
+langchain
+langchain-neo4j
+langchain-experimental
+neo4j
+langchain-cognee
+cognee
